@@ -1,6 +1,6 @@
 import pygame
-from src.pieces import *
-from src.game_logic import *
+from pieces import *
+from game_logic import *
 
 pygame.init()
 screen = pygame.display.set_mode((750, 600))
