@@ -1,4 +1,4 @@
-from pieces import *
+from src.pieces import *
 
 turn = "white"
 
