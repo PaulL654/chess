@@ -26,7 +26,7 @@
 - Activate it
     - Linux / MacOs 
       ```
-      source myvenv/bin/activate
+      source .venv/bin/activate
       ```
     - Windows
       ```
